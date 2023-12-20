@@ -1,0 +1,6 @@
+<node id="1" opts="2" text="Text from node 1" >
+	<option id="2" text="Select node 2" />
+	<option id="3" text="Select node 3" />
+</node>
+<node id="2" opts="0" text="Text from node 2" ></node>
+<node id="3" opts="0" text="Text from node 3" ></node>
